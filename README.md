@@ -3,6 +3,13 @@ My version of beebasm that I use for my games.
 
 Origanally written By RichTW and main version is https://github.com/stardot/beebasm
 
+VS2010 actually contains a VS2017 project that uses the XP compatible toolchain.
+
+If you don't have this, it should be easy to change to whichever vs2010+ version you have.
+
+It builds with statically linked libs, so no need to ship the redistributables (AFAIK)
+
+
 Main command line option changes:
 
 
