@@ -32,7 +32,7 @@ INCBASIC "file.bas"
 
 includes the tokenised version of the file at the current address,
 
-useful for appending assembler to the end of BASIC programs
+useful for appending code or data to the end of BASIC programs
 
 
 PRINT "text_",~&CODE
